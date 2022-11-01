@@ -1,0 +1,47 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#header {
+    background-color: blanchedalmond;
+    text-align: center;
+    padding: 10px;
+}
+
+#header h1 {
+    color: black;
+}
+
+#header blockquote {
+    background-color: aliceblue;
+}
+
+.menu ul {
+    justify-content: center;
+    display: flex;
+    font-display: row;
+    list-style-type: none;
+    gap: 10px;
+}
+
+.gambar {
+    text-align: center;
+}
+
+.bigger {
+    font-size: 20px;
+}
+
+.fp::first-letter {
+    fonr-size: 50px;
+    color: blue;
+}
+
+.koleksi {
+    text-align: center;
+}
+
+.koleksi img {
+    width: 20%;
+}
